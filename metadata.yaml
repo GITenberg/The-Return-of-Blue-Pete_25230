@@ -1,0 +1,28 @@
+_repo: The-Return-of-Blue-Pete_25230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allan, Luke
+    alias: Amy, William Lacey
+    deathdate: 1962
+    gutenberg_agent_id: '31167'
+    url: http://www.gutenberg.org/2009/agents/31167
+description: ''
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Royal Canadian Mounted Police -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+title: The Return of Blue Pete
+url: http://www.gutenberg.org/ebooks/25230
